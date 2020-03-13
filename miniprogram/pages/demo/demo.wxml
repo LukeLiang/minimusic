@@ -1,0 +1,7 @@
+<view class="container">
+  <movable-area class="area">
+    <movable-view class="view" direction="horizontal" x="0"></movable-view>
+    <progress stroke-width="4" backgroundColor="#969696"
+        activeColor="#fff" percent="90%"></progress>
+  </movable-area>
+</view>
